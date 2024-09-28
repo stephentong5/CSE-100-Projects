@@ -8,6 +8,8 @@ In this project, "all" you have to do is implement two programs: compress and un
 `./uncompress <compressed_file> <uncompressed_file>` <br>
 For grading purposes, you are guaranteed that original_file will be at most 10 MB.
 
+![image](https://github.com/user-attachments/assets/367bf609-dcdc-45a4-9133-ce276fc7f4d3)
+
 
 ### File Compression
 The compress program will take as input an arbitrary file (original_file) and will use Huffman Compression to create a compressed version of the file (compressed_file):
