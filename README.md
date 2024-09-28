@@ -1,2 +1,2 @@
 # CSE-100-Projects
-Repo for 2 CSE 100 Projects using C++
+Repo for CSE 100 Projects 1 and 2 using C++
